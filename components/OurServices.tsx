@@ -18,17 +18,17 @@ const services = [
     desc: "Robust, well-documented APIs for seamless integration between systems.",
   },
   {
-    image: "/ourservice/api.png",
+    image: "/ourservice/Vector.svg",
     title: "API Development",
     desc: "Scalable and secure APIs designed for high performance and reliability.",
   },
   {
-    image: "/ourservice/data.png",
+    image: "/ourservice/Vector (1).svg",
     title: "Data Analytics",
     desc: "Insightful data analysis and visualization to drive business decisions.",
   },
   {
-    image: "/ourservice/design.png",
+    image: "/ourservice/Vector (2).svg",
     title: "UI/UX Design",
     desc: "Creating intuitive and engaging user experiences with modern design principles.",
   },
