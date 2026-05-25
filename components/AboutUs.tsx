@@ -5,13 +5,12 @@ export default function AboutUsPage() {
     <section
       className="
         w-full
-        bg-white
-        dark:bg-black
+      
 
         mx-auto
         max-w-[1440PX]
 
-        px-4 sm:px-6 lg:px-8
+        px-8 sm:px-6 lg:px-8
         my-20
       "
     >

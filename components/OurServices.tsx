@@ -46,10 +46,9 @@ export default function OurServices() {
       {/* Container */}
       <div
         className="
-          w-[1440px]
-          mx-auto
-          px-[64px]
-          py-[100px]
+        m-4
+          md:m-16
+          
           flex flex-col gap-[40px]
         "
       >
@@ -59,7 +58,7 @@ export default function OurServices() {
           {/* Badge */}
           <div
             className="
-    px-4 py-1
+    px-8 py-1
     rounded-full
     bg-[#E9F4FF]
     dark:bg-[background: var(--Surface-info_accent_1, #71BBFF33);

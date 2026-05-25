@@ -15,7 +15,7 @@ export default function Hero() {
         justify-center 
         items-center
         overflow-hidden
-        px-4
+        px-8
         md:px-8
         lg:px-16
       "

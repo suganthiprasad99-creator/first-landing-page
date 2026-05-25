@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer className="w-full px-16 py-20 flex flex-col gap-20 select-none">
+    <footer className="w-full px-8 py-8 md:px-16 md:py-20 flex flex-col gap-20 select-none ">
       
       {/* Top Section: Information Links */}
-      <div className="max-w-[1440px] mx-auto w-full grid grid-cols-1 md:grid-cols-3 gap-12 items-start">
+      <div className="max-w-[1440px]  w-full grid grid-cols-1 md:grid-cols-3 gap-12 items-start">
         
         {/* Brand Column */}
         <div className="flex flex-col gap-4 ">
@@ -73,7 +73,7 @@ export default function Footer() {
         <img 
           src="/Heading.png" 
           alt="KOSAL" 
-          className="w-full max-w-[600px] h-auto object-contain opacity-70 pointer-events-none"
+          className="w-full w-[150px] max-w-[600px] opacity-70 pointer-events-none"
         />
       </div>
 

@@ -24,7 +24,7 @@ export default function LadderAcademy() {
 
 
   return (
-    <section id="academy" className="w-full px-16 py-20">
+    <section id="academy" className="w-full px-8 pt-10 md:py-20">
       <div className="max-w-[1440px] mx-auto flex flex-col gap-10">
 
         {/* Badge */}

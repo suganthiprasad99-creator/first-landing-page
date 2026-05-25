@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 
 export default function ContactUs() {
   return (
-    <section id="contact" className="w-full px-16 py-20 ">
+    <section id="contact" className="w-full  px-4 md:px-16 md:py-20 ">
       <div className="max-w-[1440px] mx-auto flex flex-col gap-10">
 
         {/* Badge */}
@@ -34,7 +34,7 @@ export default function ContactUs() {
           </div>
 
           {/* Right Column: Form (Figma: Frame 37) */}
-          <form className="flex flex-col gap-[20px] w-full max-w-[700px]  bg-[#F8F8F8]  dark:bg-[#161616] rounded-[48px] p-20 md:p-12 lg:p-8  mx-auto lg:ml-auto">
+          <form className="flex flex-col gap-[20px] w-full max-w-[700px]  bg-[#F8F8F8]  dark:bg-[#161616] rounded-[48px] p-6 md:p-20 md:p-12 lg:p-8  mx-auto lg:ml-auto">
             
             {/* Your Name */}
             <div className="flex flex-col gap-1.5">
